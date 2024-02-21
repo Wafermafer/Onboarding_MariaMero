@@ -1,9 +1,10 @@
 //Ejercicios JS Basic Exercise. Level: Low
 
 /* Ejercicio 1
-Starting from the following example, create a conditional block that evaluates whether the variable num1 is greater than num2, if so, print the value of num1 via the console, otherwise print num2.
-let num1 = 4
-let num2 = 5  */
+Create a variable called myName and store your first name in it:
+In your JavaScript file create a variable called myName with your name as the value. Put your name inside string quotes, e.g., "Rose". Then add a line of code to print the variable name to the console after the previous message. 
+
+Save your JavaScript file in your editor. Reload the HTML page in your browser. You should see your name printed. If not, investigate and fix (do this step for the next exercises too) */
 
 /*let myName = "Maria"
 
@@ -12,13 +13,7 @@ console.log (myName)*/
 
 
 /* Ejercicio 2
-Based on exercise 1, now modify the block as follows:
-
-If num1 is greater than num2, print num1 through the console,
-
-if num2 is greater, print num2 and finally
-
-if they are equal, print a string that says “The numbers are equal ” */
+Create a variable called myLastName and store your last name in it. */
 
 /*let myLastName = "Mero"
 
@@ -27,7 +22,8 @@ console.log (myLastName)*/
 
 
 /* Ejercicio 3 
-Based on exercise 1, create a conditional block that evaluates whether these variables are equal or not, if so, print a string through the console “The numbers are equal”, otherwise “The numbers are different”  */
+Create a variable called myAge and save your age in it. 
+Tip! Do not use string quotes for numbers.*/
 
 /*let myAge = "24"
 
@@ -36,14 +32,7 @@ console.log (myAge)*/
 
 
 /*Ejercicio 4
-Starting from the following example, create a conditional block that evaluates whether one of these variables is greater than the other; if so, display “The date [variable 1] is greater than [variable 2]” by console, and, If they are the same, print “The dates are the same”
-Tip! Use backticks to print via console.
-
-    let date1 = "2018-9-2"
-
-    let date2 = "2023-7-5"
-
-    The date 2023-7-5 is greater than the date 2018-9-2 */
+Create a variable called myPet and save the name of your pet in it. If you don't have a pet, you can invent a name.*/
 
 /*let myPet = "Tonky"
 
@@ -52,8 +41,8 @@ console.log (myPet)*/
 
 
 /* Ejercicio 5
-Now try changing the value of the variables. As in the previous exercises, a string must be printed through the console that says if date 1 is greater than date 2 or the opposite.
-Tip! Investigate how the strings compare. */
+Create a variable called petAge and save the pet's age in it.
+(As in the previous case, you can invent this number if you don't have a pet). */
 
 /*let petAge = "6"
 
@@ -62,7 +51,7 @@ console.log (petAge)*/
 
 
 /*Ejercicio 6
-6. In this case, create a conditional block that evaluates which of the three numbers stored in the variables is the largest. Print a string through the console that says “The number [ ] is the largest”.
+Create a variable called fullName and store the concatenation of myFirstName and myLastName in it..
    
 
     let number1 = 5
